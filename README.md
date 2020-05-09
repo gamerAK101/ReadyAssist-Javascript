@@ -1,2 +1,6 @@
 # ReadyAssist-Javascript
-Working on Javascript
+ Learining the bassics
+
+
+
+ 
